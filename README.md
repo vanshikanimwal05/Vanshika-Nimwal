@@ -34,8 +34,8 @@ Welcome to my GitHub! I'm a passionate **Java Developer** and **Game Developer**
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanshika-Nimwal&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika-Nimwal&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshikanimwal05&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikanimwal05&theme=radical" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
@@ -52,8 +52,14 @@ Welcome to my GitHub! I'm a passionate **Java Developer** and **Game Developer**
 
 ### 🔥 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Vanshika-Nimwal?theme=dark&font=Raleway" alt="LeetCode Stats" width="48%"/>
+  <img src="https://leetcard.jacoblin.cool/vanni2005?theme=dark&font=Raleway" alt="LeetCode Stats" width="48%"/>
 </div>
+
+- **Total Solved:** 75 problems  
+- **Beats:** 72.9%  
+- **Easy:** 48, **Medium:** 27, **Hard:** 0  
+- **Submissions:** 120  
+- **Acceptance Rate:** 93.3%
 
 ---
 
