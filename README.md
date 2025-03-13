@@ -1,4 +1,4 @@
-### Hi there, I'm Vanshika Nimwal👋
+### Hi there, I'm Vanshika! 👋
 
 Welcome to my GitHub! I'm a passionate **Java Developer** and **Game Developer** exploring the worlds of **software development, game design, and content creation**. 🚀
 
@@ -20,6 +20,10 @@ Welcome to my GitHub! I'm a passionate **Java Developer** and **Game Developer**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Tools & Frameworks:
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -29,9 +33,27 @@ Welcome to my GitHub! I'm a passionate **Java Developer** and **Game Developer**
 ---
 
 ### 📊 GitHub Stats
-![Vanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshika-Nimwal&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika-Nimwal&theme=radical" alt="GitHub Streak" width="48%"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika_Nimwal&layout=compact&theme=radical)](https://github.comVanshika_Nimwal)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-Nimwal&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</div>
+
+### 🏆 Most Used Languages
+- **Java**: 75% 🚀
+- **Python**: 10%
+- **C#**: 10%
+- **Others**: 5%
+
+---
+
+### 🔥 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Vanshika-Nimwal?theme=dark&font=Raleway" alt="LeetCode Stats" width="48%"/>
+</div>
 
 ---
 
@@ -43,6 +65,7 @@ Welcome to my GitHub! I'm a passionate **Java Developer** and **Game Developer**
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn]www.linkedin.com/in/vanshika-nimwal-90ab24314
-[![leetcode]https://leetcode.com/u/vanni2005/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com/)
+
 🚀 Keep coding and creating awesome stuff!
