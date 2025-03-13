@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a passionate **Java Developer** and **Game Developer**
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-Nimwal&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikanimwal05&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
 ### 🏆 Most Used Languages
